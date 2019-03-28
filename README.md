@@ -24,4 +24,29 @@ Welcome!
 "https://logonoid.com/images/thumbs/Git-logo.png"
 "https://logonoid.com/images/thumbs/Python.png"
 "https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png"
+## External Link Resource 
+### index.HTML
+"https://en.wikipedia.org/wiki/HTML5"
+"https://en.wikipedia.org/wiki/Cascading_Style_Sheets"
+"https://en.wikipedia.org/wiki/JavaScript"
+"https://en.wikipedia.org/wiki/Git"
+"https://en.wikipedia.org/wiki/Git-hub"
+"https://en.wikipedia.org/wiki/Cloud9"
+### stream-two.HTML file
+"https://en.wikipedia.org/wiki/Git"
+"https://en.wikipedia.org/wiki/Git-hub"
+"https://en.wikipedia.org/wiki/Python"
+"https://en.wikipedia.org/wiki/MongoDB"
+"https://en.wikipedia.org/wiki/MySQL"
+"https://en.wikipedia.org/wiki/Flask web_framework"
+### stream-three.HTML file
+"https://en.wikipedia.org/wiki/Git-hub"
+"https://en.wikipedia.org/wiki/Django"
+"https://en.wikipedia.org/wiki/MySQL"
+"https://en.wikipedia.org/wiki/Git"
+"https://en.wikipedia.org/wiki/Python"
+"https://en.wikipedia.org/wiki/Heroku"
+
+
+
 
