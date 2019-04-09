@@ -35,12 +35,12 @@ nav a:hover {
     margin-left: 10%;
 }
 .card a {
-    text-align: center;
-    
+    text-align: left;
 }
 img {
-    width: 20%;
+    width: 12em
 }
+
 h2 {
     text-align: center;
 }
